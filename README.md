@@ -1,24 +1,17 @@
 # omo_notsosmarthome
 
-## TS1 semestral project
-SmartHome also acts like a semestral project for TS1 course. Everything related to software testing is located in the 'testing' branch
-
 ## Description
 SmartHome is an application that simulates a run of a smart home with a variety of devices, people and animals.
 
 ## Project
-This project was created as a semestral project for a OMO course at CTU FEE.
-The goal of this project was to learn how to write clean, reusable code with focus on applying design patterns in the right places.
-
-## Info
-Pri implementaci jsme pouzivali intellij funkci code with me, proto ma valnou vetsinu commitu na starosti Soumar.
+The goal of this project was to learn how to write clean, reusable code with focus on applying design patterns in the right places. Second goal was to learn and practice how to design the project using UML diagrams.
 
 ## UML
-Odkaz na UML class diagram a UML use case diagram: [Lucidchart](https://lucid.app/lucidchart/97bc368b-4599-4722-bebf-889dc40d96a2/edit?viewport_loc=-299%2C-534%2C4588%2C2270%2CdvQ3cUOME~3G&invitationId=inv_2f3fb955-21bf-4c51-94fb-bdb629ff5503)
-<br/>PNG soubory se nachazi ve slozce uml.
+Link to the UML class and activity diagrams: [Lucidchart](https://lucid.app/lucidchart/97bc368b-4599-4722-bebf-889dc40d96a2/edit?viewport_loc=-299%2C-534%2C4588%2C2270%2CdvQ3cUOME~3G&invitationId=inv_2f3fb955-21bf-4c51-94fb-bdb629ff5503)
+<br/>PNG files can be found in the uml directory.
 
-## Funkcni pozadavky
-<details><summary>Click here to show "Funckcni pozadavky"</summary>
+## Main project points
+<details><summary>Click here to show "Main project points"</summary>
 <br/>
 
 F1. Entity se kterými pracujeme je dům, okno (+ venkovní žaluzie), patro v domu, senzor, zařízení (=spotřebič), osoba, auto, kolo, domácí zvíře jiného než hospodářského typu, plus libovolné další entity
@@ -86,8 +79,8 @@ F10. Rodina je aktivní a volný čas tráví zhruba v poměru (50% používán�
 </details>
 
 
-## Pouzite design patterny
-<details><summary>Click here to show "Pouzite design patterny"</summary>
+## Used design patterns
+<details><summary>Click here to show "Used design patterns"</summary>
 <br/>
 
 1. Strategy
