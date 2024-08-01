@@ -1,0 +1,3587 @@
+Event Report
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Outside event detected
+Device: Wind Sensor
+
+Event: Living room window 0 blinds were drawn up
+Device: Living room window 0 blinds
+
+Event: Living room window 1 blinds were drawn up
+Device: Living room window 1 blinds
+
+Event: Living room window 2 blinds were drawn up
+Device: Living room window 2 blinds
+
+Event: Living room window 3 blinds were drawn up
+Device: Living room window 3 blinds
+
+Event: Living room window 4 blinds were drawn up
+Device: Living room window 4 blinds
+
+Event: Kitchen window 0 blinds were drawn up
+Device: Kitchen window 0 blinds
+
+Event: Kitchen window 1 blinds were drawn up
+Device: Kitchen window 1 blinds
+
+Event: Bathroom window 0 blinds were drawn up
+Device: Bathroom window 0 blinds
+
+Event: Bedroom window 0 blinds were drawn up
+Device: Bedroom window 0 blinds
+
+Event: Bedroom window 1 blinds were drawn up
+Device: Bedroom window 1 blinds
+
+Event: Bedroom window 2 blinds were drawn up
+Device: Bedroom window 2 blinds
+
+Event: Bedroom window 3 blinds were drawn up
+Device: Bedroom window 3 blinds
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Outside event detected
+Device: Circuit breaker sensor
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge turned off
+Device: Samsung Fridge
+
+Event: Animal feeder turned off
+Device: Animal feeder
+
+Event: Bathroom boiler turned off
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Apple TV turned on
+Device: Apple TV
+
+Event: Bathroom boiler stopped working
+Device: Bathroom boiler
+
+Event: Bathroom boiler got repaired by handyman
+Device: Bathroom boiler
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Samsung TV turned on
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV stopped working
+Device: Samsung TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung TV got repaired by Dad
+Device: Samsung TV
+
+Event: Samsung Fridge stopped working
+Device: Samsung Fridge
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Samsung Fridge got repaired by Dad
+Device: Samsung Fridge
+
+Event: Animal feeder stopped working
+Device: Animal feeder
+
+Event: Apple TV turned off
+Device: Apple TV
+
+Event: Animal feeder got repaired by Mum
+Device: Animal feeder
+
+Event: Apple TV stopped working
+Device: Apple TV
+
+Event: Samsung TV turned off
+Device: Samsung TV
+
+Event: Apple TV got repaired by Dad
+Device: Apple TV
+

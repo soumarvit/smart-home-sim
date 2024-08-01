@@ -1,0 +1,33 @@
+Consumption Report
+
+Samsung TV
+Electricity usage: 3855.0 kWh
+Water usage: 0.0 m^3
+Gas usage: 0.0 kWh
+
+Samsung Fridge
+Electricity usage: 375.0 kWh
+Water usage: 375.0 m^3
+Gas usage: 187.5 kWh
+
+Animal feeder
+Electricity usage: 312.0 kWh
+Water usage: 312.0 m^3
+Gas usage: 0.0 kWh
+
+Bathroom boiler
+Electricity usage: 2285.0 kWh
+Water usage: 2285.0 m^3
+Gas usage: 3656.0 kWh
+
+Apple TV
+Electricity usage: 3675.0 kWh
+Water usage: 0.0 m^3
+Gas usage: 0.0 kWh
+
+Total consumption
+electricity total: 10502.0 kWh
+water total: 2972.0 m^3
+gas total: 3843.5 kWh
+
+Total cost: 15062.8 Kč

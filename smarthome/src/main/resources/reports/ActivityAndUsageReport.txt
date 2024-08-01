@@ -1,0 +1,6227 @@
+Activity and Usage Report
+
+Activity: Watching tv
+User: Dad
+Used object: Apple TV
+Duration: 2
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 5
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 2
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Dad
+Used object: Apple TV
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 1
+
+Activity: Watching tv
+User: Dad
+Used object: Apple TV
+Duration: 2
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 3
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 4
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 2
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 5
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 4
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 3
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 2
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 5
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 4
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 3
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 5
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 3
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 4
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 6
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 5
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 2
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 5
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 5
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 3
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 2
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 4
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 1
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 4
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 2
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 7
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 4
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 3
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 4
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 3
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 5
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 6
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 4
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 2
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 4
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 1
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Watching tv
+User: Dad
+Used object: Samsung TV
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 8
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 3
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 5
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 2
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 5
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Dad
+Used object: Apple TV
+Duration: 5
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 4
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 2
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 4
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 4
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 3
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Dad
+Used object: Apple TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 2
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 4
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 5
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 2
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Dad
+Used object: Apple TV
+Duration: 4
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 5
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 5
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 2
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Dad
+Used object: Samsung TV
+Duration: 5
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 5
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 3
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 6
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 2
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 4
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 1
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Dad
+Used object: Samsung TV
+Duration: 4
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 4
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 6
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 2
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 5
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 1
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Dad
+Used object: Samsung TV
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 5
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 2
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 7
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 5
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 4
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 2
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 1
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 4
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 3
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 3
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Dad
+Used object: Samsung TV
+Duration: 1
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 2
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 2
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 5
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 1
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 3
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 8
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 5
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Dad
+Used object: Samsung TV
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: closed fridge
+User: Son1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 2
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 2
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 5
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 5
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 3
+
+Activity: stopped getting hot water
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Dad
+Used object: Apple TV
+Duration: 4
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 1
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 1
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 2
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 2
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Dad
+Used object: Samsung TV
+Duration: 2
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 1
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 3
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: Watching tv
+User: Dad
+Used object: Apple TV
+Duration: 3
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 6
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 3
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 6
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 2
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 5
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 4
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Watching tv
+User: Mum
+Used object: Samsung TV
+Duration: 2
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: opened fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 3
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 3
+
+Activity: closed fridge
+User: Son2
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 3
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 1
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 1
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Samsung TV
+Duration: 5
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 4
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 4
+
+Activity: getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: 5
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 5
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son2
+Used object: Apple TV
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 5
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Mum
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son2
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: 4
+
+Activity: opened fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 4
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 7
+
+Activity: closed fridge
+User: Mum
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 5
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 5
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 2
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: stopped getting hot water
+User: Daughter1
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: opened fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 2
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 2
+
+Activity: Watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: 2
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: closed fridge
+User: Dad
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Apple TV
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: stopped getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Daughter1
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 2
+
+Activity: Watching tv
+User: Dad
+Used object: Samsung TV
+Duration: 3
+
+Activity: eating from Smart Feeder ended
+User: Animal
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Watching tv
+User: Mum
+Used object: Apple TV
+Duration: 4
+
+Activity: eating from Smart Feeder
+User: Dog
+Used object: Animal feeder
+Duration: 1
+
+Activity: closed fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: Activity ended
+
+Activity: Dad cant fix Bathroom boiler -> calling handyman
+User: Dad
+Used object: Bathroom boiler
+Duration: 1
+
+Activity: Stopped watching tv
+User: Son1
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Watching tv
+User: Son1
+Used object: Samsung TV
+Duration: 3
+
+Activity: getting hot water
+User: Son2
+Used object: Bathroom boiler
+Duration: 3
+
+Activity: opened fridge
+User: Daughter1
+Used object: Samsung Fridge
+Duration: 4
+
+Activity: eating from Smart Feeder ended
+User: Dog
+Used object: Animal feeder
+Duration: Activity ended
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: eating from Smart Feeder
+User: Animal
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung TV
+Duration: 8
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Samsung Fridge
+Duration: 6
+
+Activity: Stopped watching tv
+User: Mum
+Used object: Apple TV
+Duration: Activity ended
+
+Activity: Mum fixing
+User: Mum
+Used object: Animal feeder
+Duration: 1
+
+Activity: Stopped watching tv
+User: Dad
+Used object: Samsung TV
+Duration: Activity ended
+
+Activity: Dad fixing
+User: Dad
+Used object: Apple TV
+Duration: 8
+

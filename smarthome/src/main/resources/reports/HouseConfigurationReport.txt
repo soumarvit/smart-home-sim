@@ -1,0 +1,28 @@
+House Configuration Report
+
+Family: 5 members
+	Dad
+	Mum
+	Son1
+	Son2
+	Daughter1
+
+House: 2 floors, 1 garage
+
+Garage: 3 vehicles
+	Car1
+	Car2
+	Bicycle
+
+Floor 1: 2 rooms
+	Living room: 5 windows
+		Devices: Samsung TV
+	Kitchen: 2 windows
+		Devices: Samsung Fridge, Animal feeder
+
+Floor 2: 2 rooms
+	Bathroom: 1 windows
+		Devices: Bathroom boiler
+	Bedroom: 4 windows
+		Devices: Apple TV
+
